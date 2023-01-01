@@ -1,5 +1,6 @@
 ### Hi 👋
-- 🔭 I’m currently working on my startup [Allround](https://allroundclub.com) :rocket:
+- 🔭 I’m currently working on my startup [Fuze](https://fuze.finance) :rocket:
+- 📖 Ex co-founder [Allround](https://allroundclub.com).
 - :watch: I was a HFT quant at [Goldman Sachs](https://www.goldmansachs.com/)
 - :microscope: I researched distributed systems at [Microsoft Research](https://microsoft.com)
 - 🌱 I’m currently learning `category theory, rust, DeFi`
